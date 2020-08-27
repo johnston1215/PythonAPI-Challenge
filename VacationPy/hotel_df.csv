@@ -1,14 +1,11 @@
 ,City,Lat,Lng,Temp,Humidity,Max Temp,Cloudiness,Wind Speed,Country,Date,Hotel Name
-0,Mozarlândia,-14.74,-50.57,72.93,20,72.93,0,6.71,BR,1598496738,Mozarlândia
-1,Kiryat Gat,31.61,34.76,71.29,81,73.99,0,4.63,IL,1598496316,Kiryat Gat
-2,Dahuk,36.87,42.99,72.64,25,72.64,0,4.25,IQ,1598496743,Duhok
-3,Ponta do Sol,32.67,-17.1,76.06,51,77.0,0,2.73,PT,1598496251,Ponta Do Sol
-4,Portland,45.52,-122.68,73.83,57,75.99,0,1.01,US,1598496618,Portland
-5,Xingyi,24.19,102.82,75.72,61,75.72,0,4.14,CN,1598496761,
-6,Yuci,37.68,112.73,71.6,64,71.6,0,2.24,CN,1598496770,Yuci District
-7,Jardim,-21.48,-56.14,72.75,54,72.75,0,5.79,BR,1598496775,Jardim
-8,Beyneu,45.32,55.2,74.95,23,74.95,0,1.52,KZ,1598496776,Beyneu
-9,São Miguel do Araguaia,-13.28,-50.16,76.15,29,76.15,0,3.44,BR,1598496781,São Miguel do Araguaia
-10,Yong’an,39.7,113.69,76.01,43,76.01,0,4.03,CN,1598496784,
-11,Nouadhibou,20.93,-17.03,78.8,78,78.8,0,2.24,MR,1598496314,Nouadhibou
-12,Coruripe,-10.13,-36.18,70.7,79,70.7,0,6.8,BR,1598496788,Usina Coruripe
+0,Huangmei,30.19,116.03,75.07,85,75.07,0,4.43,CN,1598537105,Huangmei County
+1,Jinji,23.23,110.83,77.59,64,77.59,0,1.57,CN,1598537184,Jinjizhen
+2,Yamada,39.47,141.95,76.62,86,76.62,0,6.71,JP,1598537203,Yamada Denki
+3,Grand Gaube,-20.01,57.66,73.0,73,73.0,0,5.99,MU,1598537213,Grand Gaube
+4,Derzhavīnsk,51.1,66.32,72.43,42,72.43,0,7.43,KZ,1598537216,Derzhavinsk
+5,Cap Malheureux,-19.98,57.61,73.0,73,73.0,0,5.99,MU,1598537217,Cap Malheureux
+6,Guerrero Negro,27.98,-114.06,73.74,79,73.74,0,0.76,MX,1598537225,Guerrero Negro
+7,Dois Vizinhos,-25.73,-53.06,72.0,50,72.0,0,4.38,BR,1598537239,Dois Vizinhos
+8,Mingguang,32.78,117.96,73.02,92,73.02,0,3.65,CN,1598537272,Mingguang
+9,San Vicente,-26.62,-54.13,79.27,32,79.27,0,5.79,AR,1598537309,A San Vicente
